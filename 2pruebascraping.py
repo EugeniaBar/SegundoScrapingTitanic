@@ -1,4 +1,6 @@
-
+#recomendado buscar elementos en este orden:
+#ID, CLASS NAME, TAG NAME, CSS SELECTOR, CPATH
+#Link de youtube de este codigo: https://www.youtube.com/watch?v=kPNHKrOqedI
 from bs4 import BeautifulSoup
 import requests
 
